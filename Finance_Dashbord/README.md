@@ -1,4 +1,4 @@
-###Finance Dashboard
+## Finance Dashboard
 
 **Descrption:** This Finance Dashboard offers a snapshot of key financial metrics 📊, showing $2.30M in sales, $286.40K in profit, and 38K units sold. Users can filter by year (2014-2017) 📅 to track performance over time. The Consumer segment leads in profit (46.83%) 💼, while Technology products account for the highest sales (36.4%) 💻. A map of the U.S. 🗺️ shows sales by state, and regional breakdowns highlight the West as the top region 🌎. Additionally, sub-category sales reveal Phones and Chairs as the best-selling items 📱🪑, while smaller categories like Labels and Fasteners show minimal sales.
 
